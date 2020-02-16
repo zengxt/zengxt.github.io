@@ -1,8 +1,10 @@
+theme: jekyll-theme-hacker
+
 # Site settings
-title: Jlcao Blog
-SEOTitle: 曹杰乐的博客 | Jlcao Blog
+title: zengxt blog
+SEOTitle: zengxt的博客 | zengxt blog
 header-img: img/root/home-bg-fj.jpg
-email:  caojiele1225@126.com
+email:  
 description: "关于程序与设计以及架构 | 曹杰乐，Java & Mobile Lover，Software Engineer | 这里是 @caojiele 曹杰乐 的个人博客，与你一起发现更大的世界。"
 keyword: "曹杰乐, Jiele曹杰乐, Jiele, Jack-cao, @caojiele, 曹杰乐的博客, Jlcao Blog, 博客, 个人网站, 互联网, Java, node.js, 后端, 开发"
 url: "https://caojiele.com"              # your host, for absolute URL
@@ -122,5 +124,3 @@ friends: [
         href: "https://yizibi.github.io"
     }
 ]
-
-theme: jekyll-theme-hacker
